@@ -14,3 +14,4 @@ with open('/Users/salendrapradh/Desktop/KTH_courses/Medbio/Applied_Bioinformatic
 for element in sequence:
     print (element)
 #### make the set for ATGC that would make it better 
+#### theres is bug in the script as some lines could have @ starting with as well
