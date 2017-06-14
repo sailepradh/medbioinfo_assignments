@@ -13,3 +13,4 @@ with open('/Users/salendrapradh/Desktop/KTH_courses/Medbio/Applied_Bioinformatic
     print(count)
 for element in sequence:
     print (element)
+#### make the set for ATGC that would make it better 
