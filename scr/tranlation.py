@@ -29,3 +29,5 @@ def translation(s):
 
 # if (codon in CodonDict):
 #             aa.append(CodonDict[codon])
+
+### if there is NNA NNG NNC or else then there should be things to made as well if ambugities should be X 
