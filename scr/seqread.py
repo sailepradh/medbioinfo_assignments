@@ -82,3 +82,5 @@ else:
         print (">"+Seq[0].split()[0]+"\n"+max(test,test2, key=len))
 #print (Seq[0],":", (Seq[1].upper()))
 #print (Seq[0],":", reversecomplement(Seq[1].upper()))
+
+## close the file 
